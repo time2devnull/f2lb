@@ -1,38 +1,123 @@
 {
-    "adapools": {
-        "about": {
-            "name": "F2LB First 2 Lifetime Block community",
-            "description_short": "We starting to get together to make a coordinated effort to help new pools with 0 blocks in getting started.",
-            "description_long": "Starting from a post on the official Cardano forums, a few of us are starting to get together to make a coordinated effort to help new pools with 0 blocks in getting started. The general idea is that we would stake any available ADA to one pool, using a rotating queue system, until that pool gets one or two blocks, then we would all move our stake to the next pool in the queue.",
-            "website": "https://adapools.org",
-            "url_png_icon_64x64": "https://raw.githubusercontent.com/jbarros35/f2lb/main/icon6464.png",
-            "url_png_logo": "https://raw.githubusercontent.com/jbarros35/f2lb/main/icon6464.png",
-            "social": {
-                "twitter_handle": "",
-                "telegram_handle": "",
-                "facebook_handle": "",
-                "youtube_handle": "",
-                "twitch_handle": "",
-                "discord_handle": "a6cjN23cUm",
-                "github_handle": ""
-            },
-            "types": {
-                "charity": false,
-                "business": false,
-                "beneficial": true
-            }
-        },
-        "members": {
-            "0": {
-                "pool_id": "f218d7c550fecc856bdf09c6ec12d64f68a59b6727f29bedb06d88b1",
-                "member_since": "2021-03-03",
-                "name": "STPZ1"
-            },
-            "1": {
-                "pool_id": "d425fd2cf93347999106b8fbb463cc87af26791d8d31d957193204db",
-                "member_since": "2021-03-03",
-                "name": "WELON"
-            }
-        }
-    }
+	"adapools": {
+		"about": {
+			"name": "F2LB First 2 Lifetime Block community",
+			"description_short": "We starting to get together to make a coordinated effort to help new pools with 0 blocks in getting started.",
+			"description_long": "Starting from a post on the official Cardano forums, a few of us are starting to get together to make a coordinated effort to help new pools with 0 blocks in getting started. The general idea is that we would stake any available ADA to one pool, using a rotating queue system, until that pool gets one or two blocks, then we would all move our stake to the next pool in the queue.",
+			"website": "https://adapools.org",
+			"url_png_icon_64x64": "https://raw.githubusercontent.com/jbarros35/f2lb/main/icon6464.png",
+			"url_png_logo": "https://raw.githubusercontent.com/jbarros35/f2lb/main/icon6464.png",
+			"social": {
+				"twitter_handle": "",
+				"telegram_handle": "",
+				"facebook_handle": "",
+				"youtube_handle": "",
+				"twitch_handle": "",
+				"discord_handle": "a6cjN23cUm",
+				"github_handle": ""
+			},
+			"types": {
+				"charity": false,
+				"business": false,
+				"beneficial": true
+			}
+		},
+		"members": {
+			"0": {
+				"pool_id": "f218d7c550fecc856bdf09c6ec12d64f68a59b6727f29bedb06d88b1",
+				"member_since": "2021-03-03",
+				"name": "STPZ1"
+			},
+			"1": {
+				"pool_id": "d425fd2cf93347999106b8fbb463cc87af26791d8d31d957193204db",
+				"member_since": "2021-03-03",
+				"name": "WELON"
+			},
+			"2": {
+				"pool_id": "6d3f657a5fb765a69bd36e4d216da05ae979cc26a2955eb8478932f6",
+				"member_since": "2021-03-03",
+				"name": "AHOLY"
+			},
+			"3": {
+				"pool_id": "91e34a10c60a797011bdafc723e0b86a2fdecd11731c8c9e403cfe6e",
+				"member_since": "2021-03-03",
+				"name": "LvLUp"
+			},
+			"4": {
+				"pool_id": "79219df8a6919aa5443f301d07a6f9eb9be38a6388215baaf55291b3",
+				"member_since": "2021-03-03",
+				"name": "LUCY"
+			},
+			"5": {
+				"pool_id": "6cc9e3fad65bf5e427ef1ae0aa0fe08a9879870a4eccc479f3b217ad",
+				"member_since": "2021-03-03",
+				"name": "AERO"
+			},
+			"6": {
+				"pool_id": "e77b1fe68290a4b1770c47d0c2c2fd5044717f28f9f8d21447fddadc",
+				"member_since": "2021-03-03",
+				"name": "GIR"
+			},
+			"7": {
+				"pool_id": "bf8892369c5922d9d5e404ab733c9dbf75b6fb842fa1c09f46c60616",
+				"member_since": "2021-03-03",
+				"name": "DIYA"
+			},
+			"8": {
+				"pool_id": "0d549d59c5fd90ea2e7ef58041e14a10e15e0145386ba3a3b8709da4",
+				"member_since": "2021-03-03",
+				"name": "WISE"
+			},
+			"9": {
+				"pool_id": "387c1f515894d2511d1e791161e69882ddb427ab1701b7af719a8c9f",
+				"member_since": "2021-03-03",
+				"name": "SAGAN"
+			},
+			"10": {
+				"pool_id": "e21d2f6855c1b5023a18e34f35b55b2ad1141330dce7f8d00357e9be",
+				"member_since": "2021-03-03",
+				"name": "JDFR"
+			},
+			"11": {
+				"pool_id": "1be0613ee44270f56b5fbb71f667528e1d877d77d349dd7324d50869",
+				"member_since": "2021-03-03",
+				"name": "RSV"
+			},
+			"12": {
+				"pool_id": "fd6049e6058460efa683a0e090e5b98d0ea1d6db539a5a9b0bc649de",
+				"member_since": "2021-03-03",
+				"name": "STAYK"
+			},
+			"13": {
+				"pool_id": "3fac5e0197537b8eb5402249937b0b381f236436ad1ead40b7f6ec63",
+				"member_since": "2021-03-03",
+				"name": "CHESS"
+			},
+			"14": {
+				"pool_id": "901365128eb65b5848262c0069e9bbe2cf702a6507c7926c0b09b98a",
+				"member_since": "2021-03-03",
+				"name": "ATLAN"
+			},
+			"15": {
+				"pool_id": "b62d1be50110f05d414531f289ea5b1f64d1b21f07da4fbcb09af8a8",
+				"member_since": "2021-03-03",
+				"name": "ANMNT"
+			},
+			"16": {
+				"pool_id": "9567685d24580eb738a55ad2e60f6c3cfc40296ce39e6f86f9f884ed",
+				"member_since": "2021-03-03",
+				"name": "TAPC"
+			},
+			"17": {
+				"pool_id": "317572319ddc2ffa13780b6171549b048318b1822c0ed33f46338221",
+				"member_since": "2021-03-03",
+				"name": "ABPP"
+			},
+			"18": {
+				"pool_id": "4a4b968fae3ca42471841d7f6da8cfc64bfd8cf0cb9cd443da315a7f",
+				"member_since": "2021-03-03",
+				"name": "RNDfr"
+			}
+		}
+	}
 }
