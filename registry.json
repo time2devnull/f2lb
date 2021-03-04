@@ -4,11 +4,11 @@
 			"name": "F2LB First 2 Lifetime Block community",
 			"description_short": "We starting to get together to make a coordinated effort to help new pools with 0 blocks in getting started.",
 			"description_long": "Starting from a post on the official Cardano forums, a few of us are starting to get together to make a coordinated effort to help new pools with 0 blocks in getting started. The general idea is that we would stake any available ADA to one pool, using a rotating queue system, until that pool gets one or two blocks, then we would all move our stake to the next pool in the queue.",
-			"website": "https://adapools.org",
+			"website": "https://www.f2lb.org",
 			"url_png_icon_64x64": "https://raw.githubusercontent.com/jbarros35/f2lb/main/icon6464.png",
 			"url_png_logo": "https://raw.githubusercontent.com/jbarros35/f2lb/main/icon6464.png",
 			"social": {
-				"twitter_handle": "",
+				"twitter_handle": "WiseCapital3",
 				"telegram_handle": "",
 				"facebook_handle": "",
 				"youtube_handle": "",
