@@ -27,4 +27,7 @@ Registration JSON Example.
 If you want to play an active role in this Alliance, vote on our direction and help with the maximum decentralization of Cardano, please join our discord group:
 https://discord.gg/a6cjN23cUm
 
+## PS
+This registration is not mandatory and has only purpose in make public your support to our group.
+You can see the current version of this list in Adapools website: https://adapools.org/alli/f2lb-first-2-lifetime-block-community/8
 
