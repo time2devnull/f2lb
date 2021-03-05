@@ -9,10 +9,11 @@ Simply create a pull request with the information of your pool in the registry.j
 Registration JSON Example.
 
 ```
-{
- "ticker": "AHOLY",                                                       # Mandatory
- "poolId": "6d3f657a5fb765a69bd36e4d216da05ae979cc26a2955eb8478932f6",  # Mandatory
-}
+0": {
+				"pool_id": "f218d7c550fecc856bdf09c6ec12d64f68a59b6727f29bedb06d88b1",
+				"member_since": "2021-03-03",
+				"name": "STPZ1"
+			},
 ```
 
 If you want to play an active role in this Alliance, vote on our direction and help with the maximum decentralization of Cardano, please join our discord group:
