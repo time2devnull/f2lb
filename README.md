@@ -1,6 +1,8 @@
-# Registration
+# This only for Registration to the alliance!
 
 In this repo Members can register to be a member of the F2LB First 2 Lifetime Block community.
+The delegation doesn't require you to join the alliance! Its optional.
+Remember to not fork this repository, do a merge request, in case of doubts please contact with me in the discord channel!
 
 By submitting a pull request you agree that all the submited information will be publicly available to everyone.
 
